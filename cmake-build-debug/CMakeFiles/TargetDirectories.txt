@@ -1,0 +1,3 @@
+/Users/dou1013/CLionProjects/Estructuras/cmake-build-debug/CMakeFiles/Estructuras.dir
+/Users/dou1013/CLionProjects/Estructuras/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dou1013/CLionProjects/Estructuras/cmake-build-debug/CMakeFiles/rebuild_cache.dir

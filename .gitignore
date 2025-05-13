@@ -1,0 +1,5 @@
+cmake-build-debug
+SmartPointer
+.idea
+*.iml
+*.log
